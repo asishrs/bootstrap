@@ -2,6 +2,7 @@
 * [How-to-setup-CentOS-on-a-personal-Computer](https://github.com/asishrs/notes/wiki/How-to-setup-CentOS-on-a-personal-Computer)
 
 ## Setup necessary tools and packages
+* [User-Management-(Add-Delete-Manage)-in-CentOS](https://github.com/asishrs/notes/wiki/User-Management-(Add-Delete-Manage)-in-CentOS)
 * [Installing-the-RPM-on-CentOS](https://github.com/asishrs/notes/wiki/Installing-the-RPM-on-CentOS)
 * [Setup-pbcopy-on-CentOS](https://github.com/asishrs/notes/wiki/Setup-pbcopy-on-CentOS)
 * [Install-fish-shell-on-CentOs](https://github.com/asishrs/notes/wiki/Install-fish-shell-on-CentOs)
