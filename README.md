@@ -9,6 +9,7 @@
 * [Install Tixati - Torrent Client on CentOS](https://github.com/asishrs/notes/wiki/Install-Tixati---Torrent-Client-on-CentOS)
 * [Install-VideoLAN-(VLC)-on-CentOS](https://github.com/asishrs/notes/wiki/Install-VideoLAN-(VLC)-on-CentOS)
 * [Install-Google-Chrome-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Google-Chrome-on-CentOS)
+* [Useful Version-Commands](https://github.com/asishrs/notes/wiki/Version-Commands)
 
 ## Setup Java Development Environment
 * [Install-Oracle-Java-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Oracle-Java-on-CentOS)
