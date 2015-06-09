@@ -21,3 +21,4 @@
 * [Install-SonarQube-with-MySQL-database-on-CentOS](https://github.com/asishrs/notes/wiki/Install-SonarQube-with-MySQL-database-on-CentOS)
 * [Configure-GIT-with-Jenkins](https://github.com/asishrs/notes/wiki/Configure-GIT-with-Jenkins)
 * [Maven-Useful-commands](https://github.com/asishrs/notes/wiki/Maven-Useful-commands)
+* [Deploy-a-web-services-using-OpenShift] (https://github.com/asishrs/notes/wiki/Deploy-a-web-services-using-OpenShift)
