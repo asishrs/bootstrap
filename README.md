@@ -22,3 +22,4 @@
 * [Configure-GIT-with-Jenkins](https://github.com/asishrs/notes/wiki/Configure-GIT-with-Jenkins)
 * [Maven-Useful-commands](https://github.com/asishrs/notes/wiki/Maven-Useful-commands)
 * [Deploy-a-web-services-using-OpenShift] (https://github.com/asishrs/notes/wiki/Deploy-a-web-services-using-OpenShift)
+* [Install-and-Configure-Sinopia](https://github.com/asishrs/notes/wiki/Install-and-Configure-Sinopia)
