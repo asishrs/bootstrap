@@ -22,10 +22,10 @@
 * [Configure-GIT-with-Jenkins](https://github.com/asishrs/notes/wiki/Configure-GIT-with-Jenkins)
 * [Maven-Useful-commands](https://github.com/asishrs/notes/wiki/Maven-Useful-commands)
 * [Deploy-a-web-services-using-OpenShift] (https://github.com/asishrs/notes/wiki/Deploy-a-web-services-using-OpenShift)
-* [Install-and-Configure-Sinopia](https://github.com/asishrs/notes/wiki/Install-and-Configure-Sinopia)
-
+* [Apache-Http-Server with liberty-profile](https://github.com/asishrs/notes/wiki/Apache-Http-Server---liberty-profile)
 ## SmartThings
 * [Smarthings-Experiments](https://github.com/asishrs/notes/wiki/Smarthings-Experiments)
 
 ## JavaScript Development
 * [NodeJS-Development](https://github.com/asishrs/notes/wiki/NodeJS-Development)
+* [Install-and-Configure-Sinopia](https://github.com/asishrs/notes/wiki/Install-and-Configure-Sinopia)
