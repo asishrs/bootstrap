@@ -15,8 +15,8 @@
 * [Install-Oracle-Java-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Oracle-Java-on-CentOS)
 * Maven
 	* [Install-Maven-(mvn)-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Maven-(mvn)-on-CentOS)
-  * [Maven-Useful-commands](https://github.com/asishrs/notes/wiki/Maven-Useful-commands)
-  * [How-to-Configure-Maven-Character-Encoding?](https://github.com/asishrs/notes/wiki/How-to-Configure-Maven-Character-Encoding%3F)
+  	* [Maven-Useful-commands](https://github.com/asishrs/notes/wiki/Maven-Useful-commands)
+  	* [How-to-Configure-Maven-Character-Encoding?](https://github.com/asishrs/notes/wiki/How-to-Configure-Maven-Character-Encoding%3F)
 * [Install-and-Setup-Artifactory](https://github.com/asishrs/notes/wiki/Install-and-Setup-Artifactory---Repo)
 * [Install-Git-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Git-on-CentOS)
 * [Install-and-Setup-MySQL-5.6-on-CentOS](https://github.com/asishrs/notes/wiki/Install-and-Setup-MySQL-5.6-on-CentOS)
@@ -25,8 +25,8 @@
 * [Configure-GIT-with-Jenkins](https://github.com/asishrs/notes/wiki/Configure-GIT-with-Jenkins)
 * [Deploy-a-web-services-using-OpenShift] (https://github.com/asishrs/notes/wiki/Deploy-a-web-services-using-OpenShift)
 * Websphere Liberty Server
-	* [Apache-Http-Server with liberty-profile](https://github.com/asishrs/notes/wiki/Apache-Http-Server---liberty-profile)
-
+	* [ Configuring apache-http-server with liberty-profile](https://github.com/asishrs/notes/wiki/Apache-Http-Server---liberty-profile)
+	* [Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile](https://github.com/asishrs/notes/wiki/Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile)
 ## SmartThings
 * [Smarthings-Experiments](https://github.com/asishrs/notes/wiki/Smarthings-Experiments)
 
