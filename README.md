@@ -20,11 +20,12 @@
 * [Install-and-Setup-Artifactory](https://github.com/asishrs/notes/wiki/Install-and-Setup-Artifactory---Repo)
 * [Install-Git-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Git-on-CentOS)
 * [Install-and-Setup-MySQL-5.6-on-CentOS](https://github.com/asishrs/notes/wiki/Install-and-Setup-MySQL-5.6-on-CentOS)
-* [Install-Jenkins-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Jenkins-on-CentOS)
+* Jenkins
+	* [Install-Jenkins-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Jenkins-on-CentOS)
+	* [Configure-GIT-with-Jenkins](https://github.com/asishrs/notes/wiki/Configure-GIT-with-Jenkins)
 * SonarQube
 	* [Install-SonarQube-with-MySQL-database-on-CentOS](https://github.com/asishrs/notes/wiki/Install-SonarQube-with-MySQL-database-on-CentOS)
 	* [How-to-delete-to-project-manually-from-Sonar](https://github.com/asishrs/notes/wiki/How-to-delete-to-project-manually-from-Sonar)
-* [Configure-GIT-with-Jenkins](https://github.com/asishrs/notes/wiki/Configure-GIT-with-Jenkins)
 * [Deploy-a-web-services-using-OpenShift] (https://github.com/asishrs/notes/wiki/Deploy-a-web-services-using-OpenShift)
 * Websphere Liberty Server
 	* [ Configuring apache-http-server with liberty-profile](https://github.com/asishrs/notes/wiki/Apache-Http-Server---liberty-profile)
