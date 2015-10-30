@@ -22,6 +22,7 @@
 * [Install-and-Setup-MySQL-5.6-on-CentOS](https://github.com/asishrs/notes/wiki/Install-and-Setup-MySQL-5.6-on-CentOS)
 * [Install-Jenkins-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Jenkins-on-CentOS)
 * [Install-SonarQube-with-MySQL-database-on-CentOS](https://github.com/asishrs/notes/wiki/Install-SonarQube-with-MySQL-database-on-CentOS)
+	*[How-to-delete-to-project-manually-from-Sonar](https://github.com/asishrs/notes/wiki/How-to-delete-to-project-manually-from-Sonar)
 * [Configure-GIT-with-Jenkins](https://github.com/asishrs/notes/wiki/Configure-GIT-with-Jenkins)
 * [Deploy-a-web-services-using-OpenShift] (https://github.com/asishrs/notes/wiki/Deploy-a-web-services-using-OpenShift)
 * Websphere Liberty Server
