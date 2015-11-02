@@ -18,7 +18,9 @@
   	* [Maven-Useful-commands](https://github.com/asishrs/notes/wiki/Maven-Useful-commands)
   	* [How-to-Configure-Maven-Character-Encoding?](https://github.com/asishrs/notes/wiki/How-to-Configure-Maven-Character-Encoding%3F)
 * [Install-and-Setup-Artifactory](https://github.com/asishrs/notes/wiki/Install-and-Setup-Artifactory---Repo)
-* [Install-Git-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Git-on-CentOS)
+* Git
+	* [Install-Git-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Git-on-CentOS)
+	* [Useful-Git-commands](https://github.com/asishrs/notes/wiki/Useful-Git-commands)
 * [Install-and-Setup-MySQL-5.6-on-CentOS](https://github.com/asishrs/notes/wiki/Install-and-Setup-MySQL-5.6-on-CentOS)
 * Jenkins
 	* [Install-Jenkins-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Jenkins-on-CentOS)
