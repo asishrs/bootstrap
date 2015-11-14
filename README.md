@@ -21,6 +21,7 @@
 * Git
 	* [Install-Git-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Git-on-CentOS)
 	* [Useful-Git-commands](https://github.com/asishrs/notes/wiki/Useful-Git-commands)
+	* [Adding-an-existing-project-to-GitHub-using-the-command-line](https://github.com/asishrs/notes/wiki/Adding-an-existing-project-to-GitHub-using-the-command-line)
 * [Install-and-Setup-MySQL-5.6-on-CentOS](https://github.com/asishrs/notes/wiki/Install-and-Setup-MySQL-5.6-on-CentOS)
 * Jenkins
 	* [Install-Jenkins-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Jenkins-on-CentOS)
