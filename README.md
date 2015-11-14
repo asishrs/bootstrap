@@ -40,8 +40,9 @@
 * [NodeJS-Development](https://github.com/asishrs/notes/wiki/NodeJS-Development)
 * [Install-and-Configure-Sinopia](https://github.com/asishrs/notes/wiki/Install-and-Configure-Sinopia)
 
-## Docker
+## Virtualization
 * [Docker-Setup-on-OSX](https://github.com/asishrs/notes/wiki/Docker-Setup-on-OSX)
+* [Vagrant+Puppet: invalid-option: manifestdir Issue-Fix](https://github.com/asishrs/notes/wiki/Vagrant---Puppet---invalid-option:---manifestdir---Fix)
 
 ## Other Tools
 * [Excel-Shortcuts](https://github.com/asishrs/notes/wiki/Excel-Shortcuts)
