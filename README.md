@@ -12,7 +12,7 @@
 * [Useful Version-Commands](https://github.com/asishrs/notes/wiki/Version-Commands)
 
 ## Setup Java Development Environment in CentOS
-There instructions are for CentOS, but this can be used with any Linux build with minor changes.
+These instructions are for CentOS, but this can be used with any Linux build with minor changes.
 * [Install-Oracle-Java-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Oracle-Java-on-CentOS)
 * Maven
 	* [Install-Maven-(mvn)-on-CentOS](https://github.com/asishrs/notes/wiki/Install-Maven-(mvn)-on-CentOS)
@@ -33,7 +33,7 @@ There instructions are for CentOS, but this can be used with any Linux build wit
 * [Deploy-a-web-services-using-OpenShift] (https://github.com/asishrs/notes/wiki/Deploy-a-web-services-using-OpenShift)
 * Websphere Liberty Server
 	* [ Configuring apache-http-server with liberty-profile](https://github.com/asishrs/notes/wiki/Apache-Http-Server---liberty-profile)
-	* [Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile](https://github.com/asishrs/notes/wiki/Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile)
+	* :heavy_exclamation_mark:[Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile](https://github.com/asishrs/notes/wiki/Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile)
 
 ## SmartThings
 * [Smarthings-Experiments](https://github.com/asishrs/notes/wiki/Smarthings-Experiments)
@@ -44,7 +44,7 @@ There instructions are for CentOS, but this can be used with any Linux build wit
 
 ## Virtualization
 * [Docker-Setup-on-OSX](https://github.com/asishrs/notes/wiki/Docker-Setup-on-OSX)
-* [Vagrant+Puppet: invalid-option: manifestdir Issue-Fix](https://github.com/asishrs/notes/wiki/Vagrant---Puppet---invalid-option:---manifestdir---Fix)
+* :heavy_exclamation_mark:[Vagrant+Puppet: invalid-option: manifestdir Issue-Fix](https://github.com/asishrs/notes/wiki/Vagrant---Puppet---invalid-option:---manifestdir---Fix)
 
 ## Other Tools
 * [Excel-Shortcuts](https://github.com/asishrs/notes/wiki/Excel-Shortcuts)
