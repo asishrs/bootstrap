@@ -38,6 +38,9 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 	* [ Configuring apache-http-server with liberty-profile](https://github.com/asishrs/notes/wiki/Apache-Http-Server---liberty-profile)
 	* :heavy_exclamation_mark:[Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile](https://github.com/asishrs/notes/wiki/Fix-'Weak-ephemeral-Diffie-Hellman-public-key'-problem-with-Liberty-profile)
 
+## Synology
+* [Rsync-on-Synology](https://github.com/asishrs/notes/wiki/Rsync-on-Synology)
+
 ## SmartThings
 * [Smarthings-Experiments](https://github.com/asishrs/notes/wiki/Smarthings-Experiments)
 
