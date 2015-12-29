@@ -62,3 +62,4 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 
 ## Other Tools
 * [Excel-Shortcuts](https://github.com/asishrs/notes/wiki/Excel-Shortcuts)
+* [OSX How-to-avoid-multiple-proxy-configurations](https://github.com/asishrs/notes/wiki/How-to-avoid-multiple-proxy-configurations-with-authentication%3F)
