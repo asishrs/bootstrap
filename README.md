@@ -46,6 +46,8 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 * JBoss
 	* [Add-admin-user-in-JBoss-EAP-6.2](https://github.com/asishrs/notes/wiki/Add-admin-user-in-JBoss-EAP-6.2)
 	* [Deploying-static-content-to-JBoss](https://github.com/asishrs/notes/wiki/Deploying-static-content-to-JBoss)
+* Spring
+	* [How-to-solve-a-weird-JAXB-xerces-spring-application-context-load-error?](https://github.com/asishrs/notes/wiki/How-to-solve-a-weird-JAXB-xerces-spring-application-context-load-error%3F) 
 
 ## Synology
 * [Rsync-on-Synology](https://github.com/asishrs/notes/wiki/Rsync-on-Synology)
