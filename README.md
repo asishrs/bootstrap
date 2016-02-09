@@ -31,6 +31,7 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 		* [Install-and-Setup-MySQL-5.6-on-CentOS](https://github.com/asishrs/notes/wiki/Install-and-Setup-MySQL-5.6-on-CentOS)
 		* [How-to-Change-default-MySQL-Data-Directory-in-Linux](https://github.com/asishrs/notes/wiki/How-to-Change-default-MySQL-Data-Directory-in-Linux)
 		* :heavy_exclamation_mark:[Fix Can't-start-server: can't-create-PID-file:-No-space-left-on-device](https://github.com/asishrs/notes/wiki/Fix-Issue---Can't-start-server:-can't-create-PID-file:-No-space-left-on-device)
+		* :heavy_exclamation_mark:[Fixing mysqldump cannot connect using socket](https://github.com/asishrs/notes/wiki/Fixing-mysqldump-cannot-connect-using-socket)
 	* DB2
 		* [DB2-useful-queries](https://github.com/asishrs/notes/wiki/DB2-useful-queries) 
 * Jenkins
