@@ -2,6 +2,7 @@
 * [How to setup CentOS in personal Computer](https://github.com/asishrs/notes/wiki/How-to-setup-CentOS-on-a-personal-Computer)
 
 #### Setup necessary tools and packages
+These instructions are for CentOS, but this can be used with any Linux build with minor changes.
 * [User Management (Add Delete Manage) in CentOS](https://github.com/asishrs/notes/wiki/User-Management-(Add-Delete-Manage)-in-CentOS)
 * [Installing the RPM on CentOS](https://github.com/asishrs/notes/wiki/Installing-the-RPM-on-CentOS)
 * [Setup pbcopy on CentOS](https://github.com/asishrs/notes/wiki/Setup-pbcopy-on-CentOS)
@@ -11,7 +12,6 @@
 * [Install Google Chrome on CentOS](https://github.com/asishrs/notes/wiki/Install-Google-Chrome-on-CentOS)
 
 ## Technology/Development Environment preparation
-These instructions are for CentOS, but this can be used with any Linux build with minor changes.
 * [Handy Unix/Linux/OSX Commands](https://github.com/asishrs/notes/wiki/Handy-Unix-Linux-OSX-Commands)
 * Java
 	* [Install Oracle Java on CentOS](https://github.com/asishrs/notes/wiki/Install-Oracle-Java-on-CentOS)
