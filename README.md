@@ -69,3 +69,4 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 ## Useful Hacks/Fix
 * [Excel Shortcuts](https://github.com/asishrs/notes/wiki/Excel-Shortcuts)
 * [How to avoid multiple proxy configurations in OSX?](https://github.com/asishrs/notes/wiki/How-to-avoid-multiple-proxy-configurations-with-authentication%3F)
+* [Fix Bluetooth connectivity issue on Yosemite](https://github.com/asishrs/bootstrap/wiki/Fix-Bluetooth-connectivity-issue-on-Yosemite)
