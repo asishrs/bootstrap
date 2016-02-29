@@ -66,6 +66,9 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 * [Docker Setup on OSX](https://github.com/asishrs/notes/wiki/Docker-Setup-on-OSX)
 * :heavy_exclamation_mark:[Vagrant+Puppet: invalid-option: manifestdir Issue-Fix](https://github.com/asishrs/notes/wiki/Vagrant---Puppet---invalid-option:---manifestdir---Fix)
 
+## Setup Macbook
+* [Setup Mac](https://github.com/asishrs/bootstrap/wiki/Setup-Mac)
+
 ## Useful Hacks/Fix
 * [Excel Shortcuts](https://github.com/asishrs/notes/wiki/Excel-Shortcuts)
 * [How to avoid multiple proxy configurations in OSX?](https://github.com/asishrs/notes/wiki/How-to-avoid-multiple-proxy-configurations-with-authentication%3F)
