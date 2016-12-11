@@ -10,6 +10,7 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 * [Install Tixati   Torrent Client on CentOS](https://github.com/asishrs/notes/wiki/Install-Tixati---Torrent-Client-on-CentOS)
 * [Install VideoLAN (VLC) on CentOS](https://github.com/asishrs/notes/wiki/Install-VideoLAN-(VLC)-on-CentOS)
 * [Install Google Chrome on CentOS](https://github.com/asishrs/notes/wiki/Install-Google-Chrome-on-CentOS)
+* [Open a Port on CentOS/RHEL 7](https://github.com/asishrs/bootstrap/wiki/Open-a-Port-on-CentOS-or-RHEL-7)
 
 ## Technology/Development Environment preparation
 * [Handy Unix/Linux/OSX Commands](https://github.com/asishrs/notes/wiki/Handy-Unix-Linux-OSX-Commands)
