@@ -1,0 +1,17 @@
+###Open a Port on CentOS or RHEL 7
+
+Starting with CentOS and RHEL 7, firewall rule settings are managed by firewalld service daemon. 
+A command-line client called *firewall-cmd* can talk to this daemon to update firewall rules permanently.
+
+To open up a new port (e.g., TCP/80) permanently, use these commands.
+
+```
+$ sudo firewall-cmd --zone=public --add-port=80/tcp --permanent
+$ sudo firewall-cmd --reload
+```
+Without "--permanent" flag, the firewall rule would not persist across reboots.
+
+Check the updated rules with:
+```
+$ firewall-cmd --list-all
+```
