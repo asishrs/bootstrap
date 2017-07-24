@@ -1,0 +1,5 @@
+##Enabling the telnet client through command prompt
+
+Using the command line is the easiest and fastest way to install the telnet client. Run the below command in command prompt with administrator permissions.
+
+```dism /online /Enable-Feature /FeatureName:TelnetClient
