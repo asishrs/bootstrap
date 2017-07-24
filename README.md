@@ -14,6 +14,7 @@ These instructions are for CentOS, but this can be used with any Linux build wit
 
 ## Technology/Development Environment preparation
 * [Handy Unix/Linux/OSX Commands](https://github.com/asishrs/notes/wiki/Handy-Unix-Linux-OSX-Commands)
+* [Handy Windows Commands](https://github.com/asishrs/bootstrap/wiki/Handy-Windows-Commands)
 * Java
 	* [Install Oracle Java on CentOS](https://github.com/asishrs/notes/wiki/Install-Oracle-Java-on-CentOS)
 	* :heavy_exclamation_mark:[How to fix java.lang.VerifyError: JVMVRFY012 ?](https://github.com/asishrs/notes/wiki/How-to-fix-java.lang.VerifyError:-JVMVRFY012-%3F)
